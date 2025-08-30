@@ -1,2 +1,3 @@
-C:\Dev\OpenGL-dev\GettingStarted\Shaders\Shaders\glad.c;C:\Dev\OpenGL-dev\GettingStarted\Shaders\Shaders\Shaders\x64\Debug\glad.obj
-C:\Dev\OpenGL-dev\GettingStarted\Shaders\Shaders\shaders.cpp;C:\Dev\OpenGL-dev\GettingStarted\Shaders\Shaders\Shaders\x64\Debug\shaders.obj
+C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\glad.c;C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\Shaders\x64\Debug\glad.obj
+C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\main.cpp;C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\Shaders\x64\Debug\main.obj
+C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\shader.cpp;C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\Shaders\x64\Debug\shader.obj

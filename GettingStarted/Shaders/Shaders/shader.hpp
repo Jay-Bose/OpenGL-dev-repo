@@ -1,3 +1,5 @@
+// shader.hpp
+
 #ifndef SHADER_H
 #define SHADER_H
 
@@ -20,8 +22,8 @@ public:
 	// use/activate the shader
 	void use();
 	// utility uniform functions
-	void setBoot(const std::string& name, bool value) const;
-	void setInt(const std::string& name, float value) const;
+	void setBool(const std::string& name, bool value) const;
+	//void setInt(const std::string& name, float value) const;
 	void setFloat(const std::string& name, float value) const;
 };
 
