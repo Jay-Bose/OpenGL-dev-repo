@@ -99,14 +99,14 @@ int main()
         glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT);
 
-        
+        ourShader.use();
+
+        ourShader.setFloat("offset", 0.5f);
 
         // update shader uniform
         double  timeValue = glfwGetTime();
         float greenValue = static_cast<float>(sin(timeValue) / 2.0 + 0.5);
         ourShader.setFloat("ourColor", greenValue);
-
-        ourShader.use();
 
         // render the triangle
         glDrawArrays(GL_TRIANGLES, 0, 3);
