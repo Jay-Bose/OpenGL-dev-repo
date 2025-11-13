@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\x64\Debug\Shaders.exe</FullPath>
+      <FullPath>C:\opengl-dev\OpenGL-dev-repo\GettingStarted\Shaders\Shaders\x64\Debug\Shaders.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
